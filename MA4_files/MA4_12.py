@@ -27,7 +27,7 @@ def parallel_monte_carlo_approx(no_processes, n, dim):
 
 
 if __name__ == '__main__':
-    p = 1   # Number of processes
+    p = 10   # Number of processes
     n = 1000000  # Number of points
     dim = 11   # Dimension of sphere
 
